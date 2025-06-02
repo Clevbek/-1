@@ -12,6 +12,8 @@
     border-radius: 50%;
     transition: .3s;
     margin-bottom: 45px;
+    padding: 35px 20px;
+
 }
 
 .btn-right:hover{

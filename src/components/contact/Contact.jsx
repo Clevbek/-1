@@ -1,5 +1,6 @@
 import './contact.css'
 import karaoke from '../../img/karaoke.png'
+import logoRight from '../../img/logoRight.png'
 
 const Contact = () => {
     return (
@@ -7,7 +8,9 @@ const Contact = () => {
         <section className='contact-container'>
             <div className='karaoke-slice-contact'>
             
-            <div className='btn-right'></div>
+            <div className='btn-right'>
+                <img src={logoRight} alt="" />
+            </div>
 
             <div className='meet-page'>
                 <p>meet your host</p>
