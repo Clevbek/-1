@@ -1,0 +1,27 @@
+.main-header{
+    margin: 26px 0;
+    padding: 17px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header .logo-header h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.links-header{
+    display: flex;
+    gap: 40px;
+}
+
+.links-header li{
+    list-style: none;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.links-header li:hover{
+    color: #118DA8;
+}
