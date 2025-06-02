@@ -1,0 +1,38 @@
+.banner-container{
+    padding-top: 40px;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.main-banner{
+    width: 55%;
+    border-radius: 12px;
+}
+
+.main-banner img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.social{
+    width: 45%;
+}
+
+.social h1{
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.social span{
+    font-weight: 700;
+}
+
+.social .listen{
+    margin-top: 74px;
+    padding-left: 22px;
+}
+
+.social p{
+    margin-bottom: 16px;
+}

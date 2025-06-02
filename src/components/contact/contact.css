@@ -1,0 +1,119 @@
+.contact-container{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.btn-right{
+    width: 112px;
+    height: 112px;
+    background-color: #191919;
+    border-radius: 50%;
+    transition: .3s;
+    margin-bottom: 45px;
+}
+
+.btn-right:hover{
+    background-color: #118DA8;
+    transition: .3s;
+}
+
+.karaoke-slice-contact .meet-page{
+    color: #118DA8;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+
+.karaoke-slice-contact .page-one{
+    max-width: 60%;
+    font-size: 22px;
+    color: #FFFFFFB2;
+    margin-bottom: 33px;
+}
+.karaoke-slice-contact .page-two{
+    max-width: 60%;
+    font-size: 22px;
+    color: #FFFFFFB2;
+}
+
+.karaoke-img-contact{
+    width: 55%;
+    border-radius: 12px
+}
+
+.karaoke-img-contact img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.contacts-container{
+    height: 387px;
+    width: 1300px;
+    background-color: #000000;
+    margin: 100px 50px;
+    border-radius: 32px;
+}
+
+.contacts-option{
+    display: flex;
+}
+
+.contacts-option .option p{
+    font-size: 18px;
+    color: #118DA8;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.contacts-option .option h1{
+    font-size: 72px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-left: 60px;
+    width: 50%;
+}
+
+.option-contacts{
+    margin-top: 50px;
+}
+
+.option-text{
+    color: #FFFFFF;
+    background-color: #118DA8;
+    width: 87px;
+    height: 48px;
+    border-radius: 6px;
+    font-size: 15px;
+    padding: 13px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'DM Sans';
+}
+
+.option-name input{
+    background-color: #191919;
+    width: 522px;
+    height: 82px;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: white;
+    padding-left: 19px;
+    border-radius: 6px;
+    margin-right: 60px;
+    border: 1px;
+}
+
+.option-email input{
+    background-color: #191919;
+    width: 522px;
+    height: 82px;
+    font-size: 24px;
+    color: white;
+    padding-left: 19px;
+    border-radius: 6px;
+    margin-right: 60px;
+    border: 1px;
+}
+
